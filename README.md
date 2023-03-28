@@ -6,7 +6,7 @@
 
 ## Site URL
 
-> [Demo Link](https://gsg-movflx.netlify.app/)
+> [Demo Link](https://movies-uzb.netlify.app/)
 
 ---
 ## Description
