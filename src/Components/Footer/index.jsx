@@ -50,7 +50,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href=''
+                      href='https://www.pinterest.com'
                       target='_blank'
                       rel='noreferrer'>
                       <i className='ri-pinterest-fill'></i>
